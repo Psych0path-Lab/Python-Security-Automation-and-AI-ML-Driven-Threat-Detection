@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "country": "Singapore",
+  "countryCode": "SG",
+  "region": "01",
+  "regionName": "Central Singapore",
+  "city": "Singapore",
+  "isp": "Example Cloud Provider",
+  "org": "Example Cloud Provider",
+  "as": "AS64502 Example Cloud Provider",
+  "mobile": false,
+  "proxy": true,
+  "hosting": true,
+  "query": "192.0.2.77"
+}

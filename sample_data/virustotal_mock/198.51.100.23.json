@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "198.51.100.23",
+    "type": "ip_address",
+    "attributes": {
+      "last_analysis_date": 1704067200,
+      "last_analysis_stats": {
+        "malicious": 0,
+        "suspicious": 0,
+        "undetected": 30,
+        "harmless": 58,
+        "timeout": 0
+      },
+      "country": "DE",
+      "as_owner": "Example Telecom GmbH"
+    }
+  }
+}

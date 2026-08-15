@@ -1,0 +1,8 @@
+Aug 13 02:00:11 fw01 sshd[1122]: Failed password for root from 203.0.113.5 port 51422 ssh2
+Aug 13 02:00:19 fw01 sshd[1123]: Failed password for root from 203.0.113.5 port 51430 ssh2
+Aug 13 02:02:47 fw01 sshd[1145]: Failed password for admin from 203.0.113.5 port 51500 ssh2
+Aug 13 02:06:03 fw01 sshd[1201]: Accepted password for admin from 203.0.113.5 port 51590 ssh2
+Aug 13 02:07:02 fw01 kernel: [FW-DROP] IN=eth0 OUT= SRC=198.51.100.23 DST=10.0.2.20 PROTO=TCP SPT=44012 DPT=4444
+Aug 13 02:07:05 fw01 kernel: [FW-DROP] IN=eth0 OUT= SRC=192.0.2.77 DST=10.0.2.20 PROTO=TCP SPT=44018 DPT=4444
+Aug 13 02:07:09 fw01 kernel: [FW-DROP] IN=eth1 OUT= SRC=10.0.2.20 DST=203.0.113.5 PROTO=TCP SPT=51999 DPT=4444
+Aug 13 02:10:00 fw01 kernel: [FW-ACCEPT] IN=eth0 OUT= SRC=172.16.5.9 DST=10.0.1.10 PROTO=TCP SPT=443 DPT=51000

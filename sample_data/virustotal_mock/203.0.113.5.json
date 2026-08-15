@@ -1,0 +1,18 @@
+{
+  "data": {
+    "id": "203.0.113.5",
+    "type": "ip_address",
+    "attributes": {
+      "last_analysis_date": 1704067200,
+      "last_analysis_stats": {
+        "malicious": 7,
+        "suspicious": 2,
+        "undetected": 55,
+        "harmless": 24,
+        "timeout": 0
+      },
+      "country": "US",
+      "as_owner": "Example Hosting LLC"
+    }
+  }
+}

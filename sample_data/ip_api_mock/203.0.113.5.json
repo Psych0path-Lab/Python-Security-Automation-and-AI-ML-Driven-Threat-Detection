@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "VA",
+  "regionName": "Virginia",
+  "city": "Ashburn",
+  "isp": "Example Hosting LLC",
+  "org": "Example Hosting LLC",
+  "as": "AS64500 Example Hosting LLC",
+  "mobile": false,
+  "proxy": true,
+  "hosting": true,
+  "query": "203.0.113.5"
+}

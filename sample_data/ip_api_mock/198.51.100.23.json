@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "country": "Germany",
+  "countryCode": "DE",
+  "region": "BE",
+  "regionName": "Berlin",
+  "city": "Berlin",
+  "isp": "Example Telecom GmbH",
+  "org": "Example Telecom GmbH",
+  "as": "AS64501 Example Telecom GmbH",
+  "mobile": false,
+  "proxy": false,
+  "hosting": false,
+  "query": "198.51.100.23"
+}
